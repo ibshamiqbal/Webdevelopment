@@ -1,0 +1,27 @@
+#nav2{
+    margin-left: 200px;
+    margin-right: 300px;
+    
+}
+#nav2:hover{
+    color: green;
+}
+.div1{
+    display: flex;
+    color: green;
+    margin-left: 150px;
+    
+}
+h3{
+    margin: 10px;
+    font-size: 20px;
+    color: green;
+}
+.content{
+    margin-left: 150px;
+    margin-top: 20px;
+    display: flex;
+    margin-bottom: 20px;
+    
+}
+
