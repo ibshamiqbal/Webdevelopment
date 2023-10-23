@@ -1,0 +1,12 @@
+img{
+    width: 100px;
+    margin-left: 15px;
+    
+}
+.container-fluid{
+    font-size: 13px;
+    color:gray;
+}
+li>a{
+    color: gray;
+}
